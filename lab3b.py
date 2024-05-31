@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''Lab 3 Part 1 script - functions'''
-# Author ID: [seneca_id]
+# Author ID: [bb-c1]
 
 def sum_numbers(number1, number2):
     # Make this function add number1 and number2 and return the value
